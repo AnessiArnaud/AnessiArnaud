@@ -9,7 +9,7 @@ I love blending **frontend engineering, UX/UI design, and motion** to bring idea
 
 ## 🚀 About Me
 
-- 💻 I build web apps with **Next.js, React, Node.js, and Tailwind CSS**.  
+- 💻 I build web apps usually with **Next.js, React, Node.js, and Tailwind CSS**.  
 - 🎨 I’m also a **UI/UX & Motion Designer**, focused on smooth user experiences.  
 - 📚 I enjoy learning and sharing about **frontend development** and **digital design**.  
 - 🧠 Always exploring new tools and techniques to create meaningful web products.  
@@ -19,22 +19,23 @@ I love blending **frontend engineering, UX/UI design, and motion** to bring idea
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,mongodb,postgres,figma,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,mongodb,figma,git)](https://skillicons.dev)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Advanced **Next.js** patterns (Server Actions, App Router, SSR/ISR)
-- 💡 Design Systems & Frontend Architecture
-- 🧩 Building accessible and responsive UI components
-- 🎬 Creating animated experiences with **Framer Motion** & **GSAP**
+- Advanced **Next.js** patterns (Server Actions, App Router, SSR/ISR)
+- Built strong backends with Django
+- Design Systems & Frontend Architecture
+- Building accessible and responsive UI components
+- Creating animated experiences with **Framer Motion** & **GSAP**
 
 ---
 
 ## 🏆 Achievements & Projects
 
-- 💼 Designed and developed **SOLEX**, a legaltech platform for social inclusion.  
+- 💼 Designed and developed the identity of **ZADARIX**, a startup that provides IT solutions in Data, AI and Automation, etc.  
 - 🎥 Created **motion design content** for brands and digital creators.  
 - 🧩 Built several open-source UI components and creative landing pages.  
 - 🥇 Constantly improving my skills through **real-world projects** and **community work**.
@@ -44,7 +45,6 @@ I love blending **frontend engineering, UX/UI design, and motion** to bring idea
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/anessi-boka-aa6610228)  
-- 💻 [Portfolio](https://your-portfolio-link.com) *(if you want I can help you build or phrase it)*  
 - 🐙 [GitHub](https://github.com/AnessiArnaud)  
 - ✉️ bokaanessi@gmail.com  
 

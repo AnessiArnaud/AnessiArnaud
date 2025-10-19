@@ -3,7 +3,7 @@
 I'm a **Fullstack Web Developer** passionate about crafting **modern, intuitive, and impactful digital experiences**.  
 I love blending **frontend engineering, UX/UI design, and motion** to bring ideas to life — from concept to code.
 
-![AnessiArnaud's Stats](https://github-readme-stats.vercel.app/api?username=AnessiArnaud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 
 
 ---
